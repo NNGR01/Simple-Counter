@@ -28,7 +28,7 @@ setInterval (() => {
       num3++
     }
     if(num3 === 10){
-      num1 = 0
+      num3 = 0
       num4++
     }  
     
